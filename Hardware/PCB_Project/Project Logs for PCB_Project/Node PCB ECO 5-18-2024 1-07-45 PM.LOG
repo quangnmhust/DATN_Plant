@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=SIM-1
+Removed Pin From Net: NetName=V_SIM_7V Pin=SIM-2
+Added Pin To Net: NetName=V_SIM_7V Pin=SIM-1
+Added Pin To Net: NetName=GND Pin=SIM-2

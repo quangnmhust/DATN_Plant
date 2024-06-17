@@ -1,0 +1,46 @@
+Added Component: Designator=JP1(JP 2x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP 2x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 2x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=JP1-1
+Added Pin To Net: NetName=BAT- Pin=JP1-2
+Added Pin To Net: NetName=BAT- Pin=JP1-3
+Added Pin To Net: NetName=BAT_11V6 Pin=JP1-4
+Added Pin To Net: NetName=BAT_11V6 Pin=JP1-5
+Added Pin To Net: NetName=BAT_11V6 Pin=JP1-6
+Added Pin To Net: NetName=BAT- Pin=JP2-1
+Added Pin To Net: NetName=BAT- Pin=JP2-2
+Added Pin To Net: NetName=BAT- Pin=JP2-3
+Added Pin To Net: NetName=VBUS Pin=JP2-4
+Added Pin To Net: NetName=VBUS Pin=JP2-5
+Added Pin To Net: NetName=VBUS Pin=JP2-6
+Added Pin To Net: NetName=BAT- Pin=JP3-1
+Added Pin To Net: NetName=BAT- Pin=JP3-2
+Added Pin To Net: NetName=BAT- Pin=JP3-3
+Added Pin To Net: NetName=VCC_3V3 Pin=JP3-4
+Added Pin To Net: NetName=VCC_3V3 Pin=JP3-5
+Added Pin To Net: NetName=VCC_3V3 Pin=JP3-6
+Added Member To Class: ClassName=Power Member=Component JP1 JP 2x3 2.54
+Added Member To Class: ClassName=Power Member=Component JP2 JP 2x3 2.54
+Added Member To Class: ClassName=Power Member=Component JP3 JP 2x3 2.54
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

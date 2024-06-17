@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_5V Pin=J1-OUT2+
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Tu 1206 103 50V 10% New DesignItemId=Tu 0603 104 50V 10%
+Change Component Footprint: Designator=C11 Old Footprint=tu 1206 New Footprint=tu 0603
+Change Component Comment : Designator=C11 Old Comment=10nF/25V New Comment=104
+Change component parameters: Designator = "C11" ("C11"); Footprint = "tu 1206"; UniqueID = "\MQVSKIGL" ("\MQVSKIGL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004568"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=Temp

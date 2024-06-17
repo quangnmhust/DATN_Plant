@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT- Pin=-A
+Removed Pin From Net: NetName=NetD1_C Pin=-C
+Change Component DesignItemId : Designator= Old DesignItemId=B340A-13-F New DesignItemId=Diode Zener 12V
+Change Component Footprint: Designator= Old Footprint=DIOM5226X240N New Footprint=DIODE ZENNER SMD SOD80
+Change Component Comment : Designator= Old Comment=B340A-13-F New Comment=12V
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Description : Designator=D1 Old Description=Diode Schottky 40V 3A Surface Mount SMA New Description=Dán
+Change component parameters: Designator = "" ("D1"); Footprint = "DIOM5226X240N"; UniqueID = "\PNVIBCQX" ("\PNVIBCQX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000945"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 12V SMD1206 ZMM12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=D1-1
+Added Pin To Net: NetName=NetD1_C Pin=D1-2
+Change Net Name : Old Net Name=NetD1_C New Net Name=NetD1_2
+Added Room: Name=Power

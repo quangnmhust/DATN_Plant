@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT- Pin=1-1
+Change Component DesignItemId : Designator=1 Old DesignItemId=Tro 1206 1% 10k New DesignItemId=Tu 0805 224 50V 10%
+Change Component Footprint: Designator=1 Old Footprint=tro smd 1206 New Footprint=tu 0805
+Change Component Comment : Designator=1 Old Comment=10k New Comment=224
+Change Component Designator: OldDesignator=1 NewDesignator=R2
+Change component parameters: Designator = "1" ("R2"); Footprint = "tro smd 1206"; UniqueID = "\BVLBOWIR" ("\BVLBOWIR")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004559"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 224-0.22uF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Pin To Net: NetName=NetR2_1 Pin=VR1-1
+Added Net: Name=NetR2_1
+Added Room: Name=Power

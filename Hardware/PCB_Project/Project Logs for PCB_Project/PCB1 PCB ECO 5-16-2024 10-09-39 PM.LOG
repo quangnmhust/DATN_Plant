@@ -1,0 +1,37 @@
+Added Component: Designator=AMS2(SOT223)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Added Component: Designator=C12(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 106-10uF 10% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=AMS2-1
+Added Pin To Net: NetName=VBUS Pin=AMS2-3
+Added Pin To Net: NetName=BAT- Pin=C12-2
+Added Pin To Net: NetName=BAT- Pin=C15-2
+Added Pin To Net: NetName=VBUS_3V3 Pin=AMS2-2
+Added Pin To Net: NetName=VBUS_3V3 Pin=AMS2-4
+Added Pin To Net: NetName=VBUS_3V3 Pin=C12-1
+Added Pin To Net: NetName=VBUS_3V3 Pin=C15-1
+Added Net: Name=VBUS_3V3
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component AMS2 AMS1117-3.3V
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component C12 106
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component C15 104
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

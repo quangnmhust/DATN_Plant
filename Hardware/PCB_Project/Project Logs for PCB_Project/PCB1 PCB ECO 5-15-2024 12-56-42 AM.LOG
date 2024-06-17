@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BAT- Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Change Component DesignItemId : Designator=D1 Old DesignItemId=Diode Zener 24V New DesignItemId=B130-13-F
+Change Component Footprint: Designator=D1 Old Footprint=DIODE ZENNER SMD SOD80 New Footprint=SMA
+Change Component Description : Designator=D1 Old Description=C?m New Description=Diode Schottky 30V 1A Surface Mount SMA
+Change Component Library : Designator=D1 Old Library=Altium_Lib_by_KhueNguyenCreator.IntLib New Library=B130-13-F.IntLib
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIODE ZENNER SMD SOD80"; UniqueID = "\PNVIBCQX" ("\PNVIBCQX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B130-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B130-13-F/Diodes%20Inc./view-part/275058/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=D1-A
+Added Pin To Net: NetName=NetD1_2 Pin=D1-C
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD1_C
+Added Room: Name=Power

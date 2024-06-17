@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=D1 Old DesignItemId=B130-13-F New DesignItemId=B340A-13-F
+Change Component Footprint: Designator=D1 Old Footprint=SMA New Footprint=DIOM5226X240N
+Change Component Comment : Designator=D1 Old Comment=B130 New Comment=B340A-13-F
+Change Component Description : Designator=D1 Old Description=Diode Schottky 30V 1A Surface Mount SMA New Description=Diode Schottky 40V 3A Surface Mount SMA
+Change Component Library : Designator=D1 Old Library=B130-13-F.IntLib New Library=Altium_Lib_by_KhueNguyenCreator.IntLib
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMA"; UniqueID = "\PNVIBCQX" ("\PNVIBCQX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B340A-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214 Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B340A-13-F/Diodes%20Inc./view-part/78704/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Power

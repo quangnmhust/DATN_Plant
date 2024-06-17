@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=DN Pin=R1-1
+Added Pin To Net: NetName=DP Pin=R2-1
+Added Pin To Net: NetName=TXD Pin=R21-1
+Added Pin To Net: NetName=RXD Pin=R22-1
+Added Room: Name=BH1750
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=RA02
+Added Room: Name=RS485
+Added Room: Name=RTC
+Added Room: Name=SHT
+Added Room: Name=SIM
+Added Room: Name=Soil
+Added Room: Name=Soil_temp

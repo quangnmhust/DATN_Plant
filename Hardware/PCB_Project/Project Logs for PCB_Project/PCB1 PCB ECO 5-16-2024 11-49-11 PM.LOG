@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BAT- Pin=BT-1-
+Removed Pin From Net: NetName=BAT_7V2 Pin=BT-2+
+Removed Pin From Net: NetName=NetBT_2- Pin=BT-3-
+Added Pin To Net: NetName=NetBT_2- Pin=BT-3+
+Added Pin To Net: NetName=BAT- Pin=BT-3-
+Change Net Name : Old Net Name=BAT_7V2 New Net Name=BAT_11V6
+Added Pin To Net: NetName=NetBT_1- Pin=BT-1-
+Added Pin To Net: NetName=NetBT_1- Pin=BT-2+
+Added Net: Name=NetBT_1-
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

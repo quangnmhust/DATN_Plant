@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=BAT- New Net Name=GND
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

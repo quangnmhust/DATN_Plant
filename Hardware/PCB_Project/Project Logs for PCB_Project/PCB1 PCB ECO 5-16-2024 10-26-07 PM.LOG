@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GPIO9 Pin=BT_BOT-4
+Added Pin To Net: NetName=GPIO9 Pin=BT_BOT-2
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

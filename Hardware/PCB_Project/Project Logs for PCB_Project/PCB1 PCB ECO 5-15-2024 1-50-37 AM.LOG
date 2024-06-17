@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=L1-1
+Removed Pin From Net: NetName=3.3V Pin=L1-2
+Added Component: Designator=L1(IND_ASPI-0520-4R7M-T2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASPI-0520-4R7M-T2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Room: Name=Power

@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C16-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C17-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R4-5
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R4-6
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R4-7
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R4-8
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R6-5
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R6-6
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R6-7
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R6-8
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R7-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R8-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=U2-8
+Added Pin To Net: NetName=VCC_3V3MCU Pin=U4-2
+Added Room: Name=BH1750
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=POWER
+Added Room: Name=RTC
+Added Room: Name=SHT
+Added Room: Name=Soil
+Added Room: Name=Soil_temp

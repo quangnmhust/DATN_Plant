@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=AMS2-2
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=AMS2-4
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=C1-1
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=C2-1
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=C4-1
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=C5-1
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=R5-2
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=R20-2
+Removed Pin From Net: NetName=VCC_3V3MCU Pin=U1-3
+Added Component: Designator=J_SIM(DC-BRICK)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP1584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_11V6 Pin=J_SIM-IN1+
+Added Pin To Net: NetName=GND Pin=J_SIM-IN1-
+Added Pin To Net: NetName=BAT_11V6 Pin=J_SIM-IN2+
+Added Pin To Net: NetName=GND Pin=J_SIM-IN2-
+Added Pin To Net: NetName=GND Pin=J_SIM-OUT1-
+Added Pin To Net: NetName=GND Pin=J_SIM-OUT2-
+Change Net Name : Old Net Name=VCC_3V3MCU New Net Name=VCC_3V3PW
+Added Pin To Net: NetName=V_SIM_7V Pin=J_SIM-OUT1+
+Added Pin To Net: NetName=V_SIM_7V Pin=J_SIM-OUT2+
+Added Pin To Net: NetName=V_SIM_7V Pin=SIM-2
+Added Net: Name=V_SIM_7V
+Added Pin To Net: NetName=VCC_3V3MCU Pin=AMS2-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=AMS2-4
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C1-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C2-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C4-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C5-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R5-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=R20-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=U1-3
+Added Net: Name=VCC_3V3MCU
+Added Member To Class: ClassName=POWER Member=Component J_SIM MP1584

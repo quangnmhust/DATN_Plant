@@ -1,0 +1,12 @@
+Added Component: Designator=D1(DIODE ZENNER SMD SOD80)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002878"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 24V DIP 1N5252B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=D1-1
+Added Pin To Net: NetName=NetR2_1 Pin=D1-2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetD1_2
+Added Member To Class: ClassName=Power Member=Component D1 B130
+Added Room: Name=Power

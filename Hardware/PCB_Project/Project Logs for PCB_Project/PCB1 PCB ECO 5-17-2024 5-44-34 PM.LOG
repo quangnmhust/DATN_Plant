@@ -1,0 +1,10 @@
+Added Component: Designator=U?(SOP8_L)
+Added Pin To Net: NetName=NetR4_4 Pin=U?-1
+Added Pin To Net: NetName=NetR4_3 Pin=U?-2
+Added Pin To Net: NetName=NetR4_2 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GPIO5 Pin=U?-5
+Added Pin To Net: NetName=GPIO4 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=VCC3V Pin=U?-8
+Added Member To Class: ClassName=RTC Member=Component U? M95080

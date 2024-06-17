@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=BAT- Pin=J1-OUT1-
+Added Pin To Net: NetName=BAT- Pin=J1-OUT2-
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

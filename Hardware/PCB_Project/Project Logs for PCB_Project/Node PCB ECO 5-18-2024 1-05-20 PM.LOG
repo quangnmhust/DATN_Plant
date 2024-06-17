@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=P_IN-1
+Removed Pin From Net: NetName=VCC_3V3PW Pin=P_IN-2
+Removed Pin From Net: NetName=VCC_5VPW Pin=P_IN-3
+Removed Pin From Net: NetName=BAT_11V6 Pin=P_IN-4
+Removed Member From Class: ClassName=ESP32C3-MINI Member=P_IN
+Added Component: Designator=H?(Header 5P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=VCC_3V3PW Pin=H?-2
+Added Pin To Net: NetName=VCC_5VPW Pin=H?-3
+Added Pin To Net: NetName=BAT_11V6 Pin=H?-4
+Added Pin To Net: NetName=V_SIM_7V Pin=H?-5
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component H? Header 5P 2.54 Duc Cong
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=RA02
+Added Room: Name=RS485
+Added Room: Name=SHT
+Added Room: Name=SIM
+Added Room: Name=Soil
+Added Room: Name=Soil_temp

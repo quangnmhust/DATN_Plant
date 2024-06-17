@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=H2-4
+Removed Pin From Net: NetName=VCC_5V Pin=H4-1
+Removed Pin From Net: NetName=GND Pin=H4-4
+Removed Pin From Net: NetName=GND Pin=H4-5
+Removed Pin From Net: NetName=VCC_5V Pin=H4-8
+Added Pin To Net: NetName=VCC_3V3MCU Pin=AMS1-2
+Added Pin To Net: NetName=VCC_3V3MCU Pin=AMS1-4
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C7-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=C8-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=JP3-4
+Added Pin To Net: NetName=VCC_3V3MCU Pin=JP3-5
+Added Pin To Net: NetName=VCC_3V3MCU Pin=JP3-6
+Change Net Name : Old Net Name=VCC_5V New Net Name=VCC_5VPW
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power

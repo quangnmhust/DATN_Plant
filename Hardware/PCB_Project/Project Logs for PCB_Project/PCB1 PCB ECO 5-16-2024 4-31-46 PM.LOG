@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC_5V Pin=J1-OUT2+
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Tu 1206 103 50V 10% New DesignItemId=Tu 0603 104 50V 10%
+Change Component Footprint: Designator=C11 Old Footprint=tu 1206 New Footprint=tu 0603
+Change Component Comment : Designator=C11 Old Comment=10nF/25V New Comment=104
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=Temp

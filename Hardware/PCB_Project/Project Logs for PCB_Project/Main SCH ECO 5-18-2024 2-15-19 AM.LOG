@@ -1,0 +1,4 @@
+Remove Pin=BT-1+ From Net=BAT_11V6
+Remove Pin=BT-3- From Net=GND
+Change Component Footprint: Designator=P_IN Old Footprint=XH2.54M-5 New Footprint=XH2.54M-4
+Change Component Comment: Designator=P_IN Old Comment=Header 5P 2.54 Duc Thang New Comment=Header 4P 2.54 Duc Thang

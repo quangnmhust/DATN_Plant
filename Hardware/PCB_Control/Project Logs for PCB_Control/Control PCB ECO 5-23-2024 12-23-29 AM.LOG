@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_12VDC Pin=KF1-1
+Removed Pin From Net: NetName=GND Pin=KF1-2
+Added Pin To Net: NetName=GND Pin=KF1-1
+Added Pin To Net: NetName=VCC_12VDC Pin=KF1-2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Relay
+Added Room: Name=RF
+Added Room: Name=SD
+Added Room: Name=SIM

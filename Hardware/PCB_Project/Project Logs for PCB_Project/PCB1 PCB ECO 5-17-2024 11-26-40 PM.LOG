@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Net485_1 Pin=485-1
+Removed Pin From Net: NetName=VCC_5VPW Pin=485-4
+Added Pin To Net: NetName=GND Pin=485-1
+Added Pin To Net: NetName=Net485_1 Pin=485-1
+Added Pin To Net: NetName=Net485_2 Pin=485-2
+Added Pin To Net: NetName=GND Pin=485-3
+Added Pin To Net: NetName=BAT_11V6 Pin=485-4
+Added Pin To Net: NetName=VCC_5VPW Pin=485-4
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Member To Class: ClassName=RS485 Member=Component 485 Module rs485
+Added Room: Name=BH1750
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=RTC
+Added Room: Name=SHT
+Added Room: Name=SIM
+Added Room: Name=Soil
+Added Room: Name=Soil_temp

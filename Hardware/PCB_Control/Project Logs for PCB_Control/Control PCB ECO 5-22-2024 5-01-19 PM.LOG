@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=CON-PLG_5X1-50-RA-TH New DesignItemId=CON 5 EDG5.08
+Change Component Footprint: Designator=J2 Old Footprint=CON5_50_653005117322_TH_RA New Footprint=CON 5 5EDG5.08
+Change Component Comment : Designator=J2 Old Comment=653005117322 New Comment=CON 5 EDG5.08
+Change Component Description : Designator=J2 Old Description=5 Pins, 1 Row 1.25mm Pitch, right angle Connector, male New Description=C?m
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CON5_50_653005117322_TH_RA"; UniqueID = "\NQWSFGJB\TSNUKSRI" ("\NQWSFGJB\TSNUKSRI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003589"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 5 2EDG5.08-5P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Room: Name=Relay

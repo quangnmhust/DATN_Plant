@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C1-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C2-1
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Tu 1206 104 50V 20% New DesignItemId=Tu 0603 104 50V 10%
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Tu 1206 106 16V 20% New DesignItemId=Tu 0603 106 16V 20%
+Change Component Footprint: Designator=C1 Old Footprint=tu 1206 New Footprint=tu 0603
+Change Component Footprint: Designator=C2 Old Footprint=tu 1206 New Footprint=tu 0603
+Change component parameters: Designator = "C1" ("C1"); Footprint = "tu 1206"; UniqueID = "\GTNOFNWZ" ("\GTNOFNWZ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603-10uF 20% 16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "tu 1206"; UniqueID = "\UHQGOVEX" ("\UHQGOVEX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004568"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

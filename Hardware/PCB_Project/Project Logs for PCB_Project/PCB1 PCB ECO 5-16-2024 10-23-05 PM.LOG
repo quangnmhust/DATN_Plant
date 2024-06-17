@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=USB1 Old DesignItemId=USB Micro 5p SMD New DesignItemId=USB Micro 5p DIP
+Change Component Footprint: Designator=USB1 Old Footprint=USB Micro 5p SMD New Footprint=USB Micro 5p DIP
+Change Component Comment : Designator=USB1 Old Comment=USB Micro 5p SMD New Comment=USB Micro 5p DIP
+Change component parameters: Designator = "USB1" ("USB1"); Footprint = "USB Micro 5p SMD"; UniqueID = "\HFEMYYTA" ("\HFEMYYTA")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH005145"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "MicroUSB MK5P DIP"; VariantName = "[No Variations]"
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

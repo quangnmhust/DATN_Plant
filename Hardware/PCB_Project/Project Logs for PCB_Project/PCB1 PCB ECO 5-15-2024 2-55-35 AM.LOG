@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=VR1-1
+Removed Pin From Net: NetName=3.3V Pin=VR1-3
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MP1482DS-LF New DesignItemId=MP1482DS-LF-Z
+Change Component Comment : Designator=R2 Old Comment=224 New Comment=10k
+Change Component Comment : Designator=U1 Old Comment=MP1482DS New Comment=MP1482DS-LF-Z
+Change Component Library : Designator=U1 Old Library=MP1482DS-LF.IntLib New Library=MP1482DS-LF-Z.IntLib
+Added Pin To Net: NetName=3.3V Pin=VR1-1
+Added Pin To Net: NetName=NetR2_1 Pin=VR1-2
+Added Pin To Net: NetName=NetR2_1 Pin=VR1-3
+Added Room: Name=Power

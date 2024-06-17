@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=AMS? NewDesignator=AMS2
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component C4 106
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component C12 106
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component C15 104
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

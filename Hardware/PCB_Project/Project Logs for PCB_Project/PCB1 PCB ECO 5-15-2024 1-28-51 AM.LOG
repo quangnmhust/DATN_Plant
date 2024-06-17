@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BAT+ Pin=U1-2
+Added Member To Class: ClassName=Power Member=Component VR1 100k
+Added Room: Name=Power

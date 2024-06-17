@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=U1-3
+Added Component: Designator=L1(IND_ASPI-0520LR-4R7M-T2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ASPI-0520LR-4R7M-T2/Abracon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASPI-0520LR-4R7M-T2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2220 Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ASPI-0520LR-4R7M-T2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASPI-0520LR-4R7M-T2/Abracon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=L1-2
+Added Member To Class: ClassName=Power Member=Component L1 ASPI-0520LR-4R7M-T2
+Added Room: Name=Power

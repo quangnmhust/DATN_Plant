@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPIO4 Pin=SHT-1
+Removed Pin From Net: NetName=GPIO5 Pin=SHT-2
+Removed Pin From Net: NetName=VCC_5VPW Pin=SHT-3
+Removed Pin From Net: NetName=GND Pin=SHT-4
+Added Pin To Net: NetName=GND Pin=SHT-1
+Added Pin To Net: NetName=GPIO4 Pin=SHT-2
+Added Pin To Net: NetName=GPIO5 Pin=SHT-3
+Added Pin To Net: NetName=VCC_5VPW Pin=SHT-4

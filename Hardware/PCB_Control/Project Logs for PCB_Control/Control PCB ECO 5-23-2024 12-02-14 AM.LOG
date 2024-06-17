@@ -1,0 +1,38 @@
+Added Component: Designator=J1(DC-BRICK)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP1584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J_SIM(DC-BRICK)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP1584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP1584/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_12VDC Pin=J1-IN1+
+Added Pin To Net: NetName=GND Pin=J1-IN1-
+Added Pin To Net: NetName=VCC_12VDC Pin=J1-IN2+
+Added Pin To Net: NetName=GND Pin=J1-IN2-
+Added Pin To Net: NetName=VCC Pin=J1-OUT1+
+Added Pin To Net: NetName=GND Pin=J1-OUT1-
+Added Pin To Net: NetName=VCC Pin=J1-OUT2+
+Added Pin To Net: NetName=GND Pin=J1-OUT2-
+Added Pin To Net: NetName=VCC_12VDC Pin=J_SIM-IN1+
+Added Pin To Net: NetName=GND Pin=J_SIM-IN1-
+Added Pin To Net: NetName=VCC_12VDC Pin=J_SIM-IN2+
+Added Pin To Net: NetName=GND Pin=J_SIM-IN2-
+Added Pin To Net: NetName=V_SIM_7V Pin=J_SIM-OUT1+
+Added Pin To Net: NetName=GND Pin=J_SIM-OUT1-
+Added Pin To Net: NetName=V_SIM_7V Pin=J_SIM-OUT2+
+Added Pin To Net: NetName=GND Pin=J_SIM-OUT2-
+Added Member To Class: ClassName=Power Member=Component J1 MP1584
+Added Member To Class: ClassName=Power Member=Component J_SIM MP1584
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Relay
+Added Room: Name=RF
+Added Room: Name=SD
+Added Room: Name=SIM

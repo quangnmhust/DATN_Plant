@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC_5V Pin=J1-OUT2+
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=Temp

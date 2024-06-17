@@ -1,0 +1,27 @@
+Change Component DesignItemId : Designator=H4 Old DesignItemId=Header 4P 2.54 Duc Thang New DesignItemId=JP 1x4 2.54 Duc Thang
+Change Component DesignItemId : Designator=H3 Old DesignItemId=Header 5P 2.54 Duc Thang New DesignItemId=JP 1x5 2.54 Duc Thang
+Change Component Footprint: Designator=H4 Old Footprint=XH2.54M-4 New Footprint=JP 1x4 DT
+Change Component Footprint: Designator=H3 Old Footprint=XH2.54M-5 New Footprint=JP 1x5 DT
+Change Component Comment : Designator=H4 Old Comment=Header 4P 2.54 Duc Thang New Comment=JP 1x4 2.54
+Change Component Comment : Designator=H3 Old Comment=Header 5P 2.54 Duc Thang New Comment=JP 1x5 2.54
+Change Component Designator: OldDesignator=3V3 NewDesignator=JP3
+Change Component Designator: OldDesignator=5V NewDesignator=JP2
+Change Component Designator: OldDesignator=12V NewDesignator=JP1
+Change component parameters: Designator = "H3" ("H3"); Footprint = "XH2.54M-5"; UniqueID = "\UIRFDKXX" ("\UIRFDKXX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "XH2.54M-4"; UniqueID = "\AARGPLUR" ("\AARGPLUR")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

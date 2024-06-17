@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=BT1 NewDesignator=BT_BOT
+Change Component Designator: OldDesignator=BT2 NewDesignator=BT_EN
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

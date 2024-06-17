@@ -1,0 +1,12 @@
+Added Component: Designator=P_IN(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P_IN-1
+Added Pin To Net: NetName=VCC_3V3MCU Pin=P_IN-2
+Added Pin To Net: NetName=VCC_5VPW Pin=P_IN-3
+Added Pin To Net: NetName=BAT_11V6 Pin=P_IN-4
+Added Member To Class: ClassName=ESP32C3-MINI Member=Component P_IN Header 4P 2.54 Duc Thang

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BAT- Pin=AMS2-1
+Removed Pin From Net: NetName=VBUS Pin=AMS2-3
+Removed Pin From Net: NetName=BAT- Pin=C12-2
+Removed Pin From Net: NetName=BAT- Pin=C15-2
+Removed Member From Class: ClassName=ESP32C3-MINI Member=AMS2
+Removed Member From Class: ClassName=ESP32C3-MINI Member=C12
+Removed Member From Class: ClassName=ESP32C3-MINI Member=C15
+Added Room: Name=ESP32C3-MINI
+Added Room: Name=Power
+Added Room: Name=RS485
+Added Room: Name=Temp

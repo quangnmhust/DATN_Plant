@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Tu 1206 104 50V 20% New DesignItemId=Tu 0805 224 50V 10%
+Change Component Footprint: Designator=C4 Old Footprint=tu 1206 New Footprint=tu 0805
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=224
+Change component parameters: Designator = "C4" ("C4"); Footprint = "tu 1206"; UniqueID = "\MSVZZLUJ" ("\MSVZZLUJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004559"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 224-0.22uF 10% 50V"; VariantName = "[No Variations]"
+Added Room: Name=Power

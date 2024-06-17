@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=D1-2 Old Net=VBUS New Net=VCC_5V
+Add Pin To Net: Pin=U3-16 Old Net=VBUS New Net=VCC_5V
