@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "common.h": "c",
+    "general.h": "c",
+    "freertos.h": "c",
+    "ds3231.h": "c",
+    "i2cdev.h": "c",
+    "ads111x.h": "c"
+  },
+  "cmake.configureOnOpen": false
+}
